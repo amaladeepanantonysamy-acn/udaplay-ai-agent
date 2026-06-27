@@ -1,0 +1,26 @@
+# API keys — never commit
+config.env
+.env
+
+# Vector store data (generated at runtime)
+chromadb/
+chromadb_memory/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

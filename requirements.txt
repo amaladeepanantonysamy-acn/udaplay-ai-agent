@@ -1,0 +1,7 @@
+chromadb>=1.0.4
+openai>=1.73.0
+pydantic>=2.11.3
+python-dotenv>=1.1.0
+tavily-python>=0.5.4
+pdfplumber>=0.11.0
+typing_extensions>=4.12.0
